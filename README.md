@@ -21,7 +21,7 @@ Operating Systems：Windows10，macOS, and Linux are all compatible.
 The dataset used for machine learning is the file named "ML dataset".
 The directly executable code is the file named "ML code".
 Our experimental data is contained in the file named "My data".
-Access to the aforementioned data is available via link:.....
+Access to the aforementioned data is available via link(https://github.com/linx678/Predicting-HEA-NPs-Synthesis-Temperature-via-ML.git)
 
 3. Instructions for use
 √How to run the software on your data
