@@ -5,7 +5,7 @@ The source code will be approved in file named “ML code”
 1. System requirements
 √All software dependencies and operating systems (including version numbers)
 
-Programming Language:：python 3.9.7
+Programming Language：python 3.9.7
 
 Runtime Software：IDEs such as Jupyter, PyCharm, and Visual Studio Code can all run successfully.
 
