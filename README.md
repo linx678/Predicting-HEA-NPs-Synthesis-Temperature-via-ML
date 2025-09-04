@@ -16,6 +16,7 @@ Operating Systems：Windows10，macOS, and Linux are all compatible.
 Versions the software has been tested on
 
 2. Installation guide
+
 Instructions
 
 The dataset used for machine learning is the file named "ML dataset".
@@ -23,7 +24,7 @@ The directly executable code is the file named "ML code".
 Our experimental data is contained in the file named "My data".
 Access to the aforementioned data is available via link(https://github.com/linx678/Predicting-HEA-NPs-Synthesis-Temperature-via-ML.git)
 
-4. Instructions for use
+3. Instructions for use
 How to run the software on your data
 
 To run the code successfully, open the "ML code" file in Jupyter and click "Run"button. The process typically completes within 1–3 minutes.
