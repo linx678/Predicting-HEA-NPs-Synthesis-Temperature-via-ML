@@ -6,8 +6,11 @@ The source code will be approved in file named “ML code”
 √All software dependencies and operating systems (including version numbers)
 
 Programming Language:：python 3.9.7
+
 Runtime Software：IDEs such as Jupyter, PyCharm, and Visual Studio Code can all run successfully.
+
 Dependent Libraries：pandas 2.2.3, numpy 2.0.2, scikit-learn 0.24.2, matplotlib 3.4.3, xgboost 2.1.4
+
 Operating Systems：Windows10，macOS, and Linux are all compatible.
 
 
