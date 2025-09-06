@@ -28,4 +28,4 @@ Access to the aforementioned data is available via link(https://github.com/linx6
    
 How to run the software on your data
 
-To run the code successfully, open the "ML code" file in Jupyter and click "Run"button. The process typically completes within 1–3 minutes.
+To run the code successfully, open the "ML code" file in Jupyter and click "Run"button. The process typically completes within 1–5 minutes.
